@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# source $0.sh
+[[ -f "$0.sh" ]] && . $0.sh
