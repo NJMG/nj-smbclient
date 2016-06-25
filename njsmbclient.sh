@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# last modif: 09/11/2014
 ##################################################################################################################
 # NJsmbclient
 # Desc: transfert linux file ( folder recursively ) to win shares  folder on the network with smbclient (samba)
