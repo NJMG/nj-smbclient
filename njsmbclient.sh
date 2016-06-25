@@ -31,10 +31,6 @@ then
 ((SinTerm)) && echo "$msg_beroot"
 exit $E_NOTROOT
 fi
-############################
-#Variables
-#var to enable functions ::
-Nj_CMDSMBCLIENT=1
 
 ############################
 ##Rep & Destination ::
