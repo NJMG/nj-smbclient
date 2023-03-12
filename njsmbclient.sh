@@ -2,7 +2,7 @@
 # last modif: 09/11/2014
 ##################################################################################################################
 # NJsmbclient
-# Desc: transfert linux file ( folder recursively ) to win shares  folder on the network with smbclient (samba)
+# Desc: transfer linux files (folder recursively) to network windows folders with smbclient (samba)
 #
 # smbclient options::https://www.samba.org/samba/docs/man/manpages/smbclient.1.html 
 # 
