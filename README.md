@@ -1,4 +1,4 @@
 # nj-smbclient
-transfert linux file ( folder recursively ) to win shares  folder on the network with smbclient (samba)
+transfer linux files (folder recursively) to network windows folders with smbclient (samba)
 
 
